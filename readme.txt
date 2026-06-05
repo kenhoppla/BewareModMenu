@@ -7,9 +7,6 @@ by Ondrej Svadlena or anyone involved in BEWARE.
 The mod is provided as-is, with no warranty of any kind. Use it at your
 own risk and back up your save files first.
 
-See LICENSE (MIT) for the mod's own code and NOTICE.txt for the bundled
-BepInEx loader (LGPL-2.1).
-
 
 INSTALL
 -------
